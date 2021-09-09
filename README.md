@@ -1,2 +1,2 @@
 # IMD - AC.ELETRONICO
- Módulo Avançado
+ Módulo Avançado Eletrônica
