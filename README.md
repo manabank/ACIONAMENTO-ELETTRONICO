@@ -26,7 +26,7 @@ O acionamento de partida direta contém:
 
 ![Partida Direta com Sinalizacao](./Prints/part_direta_sinalizacao.jpg)
 
-O diagrama muda bem pouco em comparação ao diagrama da Partida Direta, com diferença somente no acréssimo de uma simples sinalização que acenderá enquanto o motor estiver ligado.
+O diagrama muda bem pouco em comparação ao diagrama da Partida Direta, com diferença somente no acréscimo de uma simples sinalização que acenderá enquanto o motor estiver ligado.
 
 `Quando a chave S1 é acionada, a bobina vai fechar tanto os contactores como também a chave que aciona da lâmpada -H, isso fará com que haja sinalização quando o motor estiver ligado.`
 
