@@ -9,6 +9,7 @@ Neste repositório será demonstrado diferentes formas de acionamentos de motore
 Os diagramas foram desenvolvidos para o acionamento direto de um motor trifasico. Para isso, utilizamos o software [CADe SIMU](https://www.cadesimu.net). Os [arquivos](./Arquivos) possuem a extensão **.cad**, que por sua vez, é compatível com o software.
 
 ### Partida Direta:
+*Arquivo [.cad](./Arquivos/CADe_partidaDireta)*
 
 ![Partida Direta](./Prints/part_direta.jpg)
 
@@ -23,16 +24,18 @@ O acionamento de partida direta contém:
 ---
 
 ### Partida Direta com Sinalização:
+*Arquivo [.cad](./Arquivos/CADe_partidaDireta_sinal)*
 
 ![Partida Direta com Sinalizacao](./Prints/part_direta_sinalizacao.jpg)
 
-O diagrama muda bem pouco em comparação ao diagrama da Partida Direta, com diferença somente no acréssimo de uma simples sinalização que acenderá enquanto o motor estiver ligado.
+O diagrama muda bem pouco em comparação ao diagrama da Partida Direta, com diferença somente no acréscimo de uma simples sinalização que acenderá enquanto o motor estiver ligado.
 
-`Quando a chave S1 é acionada, a bobina vai fechar tanto os contactores como também a chave que aciona da lâmpada -H, isso fará com que haja sinalização quando o motor estiver ligado.`
+`Quando a chave S1 é acionada, a bobina vai fechar tanto os contactores como também a chave (K1) que aciona da lâmpada (-H), isso fará com que haja sinalização quando o motor estiver ligado.`
 
 ---
 
 ### Partida Direta com Selo
+*Arquivo [.cad](./Arquivos/CADe_partidaDireta_selo)*
 
 ![Partida Direta com Selo](./Prints/part_direta_selo.jpg)
 
