@@ -9,6 +9,7 @@ Neste repositório será demonstrado diferentes formas de acionamentos de motore
 Os diagramas foram desenvolvidos para o acionamento direto de um motor trifasico. Para isso, utilizamos o software [CADe SIMU](https://www.cadesimu.net). Os [arquivos](./Arquivos) possuem a extensão **.cad**, que por sua vez, é compatível com o software.
 
 ### Partida Direta:
+*Arquivo [.cad](./Arquivos/CADe_partidaDireta)*
 
 ![Partida Direta](./Prints/part_direta.jpg)
 
@@ -23,6 +24,7 @@ O acionamento de partida direta contém:
 ---
 
 ### Partida Direta com Sinalização:
+*Arquivo [.cad](./Arquivos/CADe_partidaDireta_sinal)*
 
 ![Partida Direta com Sinalizacao](./Prints/part_direta_sinalizacao.jpg)
 
@@ -33,6 +35,7 @@ O diagrama muda bem pouco em comparação ao diagrama da Partida Direta, com dif
 ---
 
 ### Partida Direta com Selo
+*Arquivo [.cad](./Arquivos/CADe_partidaDireta_selo)*
 
 ![Partida Direta com Selo](./Prints/part_direta_selo.jpg)
 
